@@ -1,0 +1,1 @@
+ALTER TABLE "tbl_user" ALTER COLUMN "id" SET DATA TYPE text;
